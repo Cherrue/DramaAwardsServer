@@ -26,7 +26,7 @@ public class DramaEntity {
     @Column(length=100)
     private String platform;
 
-    @Column()
+    @Column( )
     private Integer air_year;
 
     @Column(length=300)
